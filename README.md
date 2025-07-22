@@ -19,12 +19,6 @@ A simple yet powerful desktop GUI application built with **Tkinter** that conver
 
 ---
 
-## 📸 Screenshot
-
-![Currency Converter Screenshot](screenshot.png) <!-- Add your own screenshot -->
-
----
-
 ## 🚀 Getting Started
 
 ### 📦 Requirements
